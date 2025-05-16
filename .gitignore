@@ -20,3 +20,5 @@ crash.*.log
 
 # Ignore lock files
 *.lock.hcl
+
+"jenkins pipeline"/
